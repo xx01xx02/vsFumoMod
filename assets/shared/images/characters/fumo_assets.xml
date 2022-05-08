@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fumo_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fumo down0000" x="0" y="0" width="239" height="142"/>
+	<SubTexture name="fumo down0001" x="239" y="0" width="239" height="126" frameX="0" frameY="-14" frameWidth="239" frameHeight="142"/>
+	<SubTexture name="fumo idle0000" x="478" y="0" width="239" height="240" frameX="0" frameY="0" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo idle0001" x="717" y="0" width="239" height="232" frameX="0" frameY="-8" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo idle0002" x="956" y="0" width="239" height="218" frameX="0" frameY="-22" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo idle0003" x="1195" y="0" width="239" height="202" frameX="0" frameY="-39" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo idle0004" x="1434" y="0" width="239" height="190" frameX="0" frameY="-51" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo idle0005" x="1434" y="0" width="239" height="190" frameX="0" frameY="-51" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo idle0006" x="1195" y="0" width="239" height="202" frameX="0" frameY="-39" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo idle0007" x="956" y="0" width="239" height="218" frameX="0" frameY="-22" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo idle0008" x="717" y="0" width="239" height="232" frameX="0" frameY="-8" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo idle0009" x="478" y="0" width="239" height="240" frameX="0" frameY="0" frameWidth="239" frameHeight="241"/>
+	<SubTexture name="fumo left0000" x="1673" y="0" width="291" height="240" frameX="-17" frameY="0" frameWidth="325" frameHeight="240"/>
+	<SubTexture name="fumo left0001" x="0" y="240" width="309" height="240" frameX="-8" frameY="0" frameWidth="325" frameHeight="240"/>
+	<SubTexture name="fumo left0002" x="309" y="240" width="325" height="240"/>
+	<SubTexture name="fumo right0000" x="634" y="240" width="291" height="240" frameX="0" frameY="0" frameWidth="330" frameHeight="240"/>
+	<SubTexture name="fumo right0001" x="925" y="240" width="309" height="240" frameX="-5" frameY="0" frameWidth="330" frameHeight="240"/>
+	<SubTexture name="fumo right0002" x="1234" y="240" width="315" height="240" frameX="-15" frameY="0" frameWidth="330" frameHeight="240"/>
+	<SubTexture name="fumo up0000" x="1549" y="240" width="239" height="306" frameX="0" frameY="-15" frameWidth="239" frameHeight="321"/>
+	<SubTexture name="fumo up0001" x="1788" y="240" width="239" height="320" frameX="0" frameY="0" frameWidth="239" frameHeight="321"/>
+</TextureAtlas>
